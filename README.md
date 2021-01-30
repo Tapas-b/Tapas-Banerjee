@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my website
 
-You can use the [editor on GitHub](https://github.com/Tapas-b/Tapas-b.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Tapas Banerjee. i am currently in 10th grade. I am an enthusiastic learner, amateur video game developer and graphic animator, electronic gadgets geek and a budding entrepreneur.
 
 ### Markdown
 
