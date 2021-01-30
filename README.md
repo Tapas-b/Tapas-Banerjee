@@ -2,26 +2,14 @@
 
 My name is Tapas Banerjee. i am currently in 10th grade. I am an enthusiastic learner, amateur video game developer and graphic animator, electronic gadgets geek and a budding entrepreneur.
 
-### Markdown
+# Game development
+I have always loved to play games specially ones with either amazing graphics or great game logic and idea. I had been surfing various game stores for quite a while and found out that games featuring space exploration have been rarely created. Hence, i have taken matters into my own hands and have pldeged to design amazing games that will gain peoples interests in space-science.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-i am trying something new
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+# filmamking
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[https://twitter.com/The_taplord](url) and ![Image](src)
 ```hello
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
